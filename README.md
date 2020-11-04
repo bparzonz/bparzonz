@@ -1,16 +1,14 @@
-### Hi there 👋
+### I Love Data!
 
-<!--
-**bparzonz/bparzonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Business Analyst who is fascinated by the world of analytics. I believe data visualization is its own art form. Don't believe me? Just check out r/dataisbeautiful! Currently working towards my Masters in Business Analytics at UCLA Anderson.
 
-Here are some ideas to get you started:
+Before graduate school, I worked in Cost for an Airforce contractor - a majority of my skillset having been applied towards ICBM (Intercontinental Ballistic Missile) program research. Aerospace is fascinating, and I am incredibly privileged to have learned from some of the most talented people supporting the U.S. government.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My toolset includes: 
+
+* Python (Pandas, NumPy, Ggplot2, Plotly, Automation, Web API integration) 
+* R (Tidyverse, Ggplot2, Plotly)
+* Microsoft Power BI (xViz, R Custom Visuals)
+* Excel (Data Analysis, CO$TAT, Crystal Ball, VBA Macros)
+
+Feel free to reach out!
